@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I think i can learn quickly and eager to implement the knowledge**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
