@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nahyan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **Digital Life Lesson**
+- 🔭 I’m currently working on **Matrix Math Care**
 
 - 🌱 I’m currently learning **React,Next.js,Python**
 
