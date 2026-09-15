@@ -4,19 +4,16 @@
 
   <br/>
 
-  <!-- Quick Connect & Profile Status Badges -->
+  <!-- Quick Connect Badges -->
   <p align="center">
+    <a href="https://portfolio-phi-seven-v3rxtxgxsk.vercel.app/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
     <a href="https://www.linkedin.com/in/nahyan-ibtee/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:ibtee555@gmail.com">
       <img src="https://img.shields.io/badge/Email-ibtee555%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/ibtee12">
-      <img src="https://img.shields.io/badge/GitHub-ibtee12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://komarev.com/ghpvc/?username=ibtee12&label=Profile%20Views&color=38BDF8&style=for-the-badge">
-      <img src="https://komarev.com/ghpvc/?username=ibtee12&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
     </a>
   </p>
 </div>
@@ -35,9 +32,6 @@ Passions: Scalable Web Apps, Interactive UI/UX, Computer Vision & Creative Tech
 
 - 🎓 **Academic Background:** Undergraduate Computer Science & Engineering (CSE) student at **Rajshahi University of Engineering & Technology (RUET)**.
 - 💻 **Engineering Focus:** Building fast, responsive, and production-grade full-stack web applications using **MERN & Next.js**.
-- 🚀 **Flagship Deployments:**
-  - [**DriveFleet**](https://drivefleet-client.vercel.app) — Modern peer-to-peer car rental and fleet management platform.
-  - [**Digital Life Lessons**](https://digital-life-lessons-client-side.vercel.app/) — Editorial wisdom-sharing platform with 20-week reflection heatmaps and Stripe checkout.
 - 🧠 **Currently Exploring:** Next.js App Router architectures, microservices, and computer vision with **Python & OpenCV**.
 - ⚡ **Fun Fact:** Fast learner who loves turning complex system logic into intuitive, visually engaging user experiences.
 
@@ -47,11 +41,9 @@ Passions: Scalable Web Apps, Interactive UI/UX, Computer Vision & Creative Tech
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| 🏎️ **DriveFleet** | **Enterprise Car Rental & Fleet Management Platform**<br>Peer-to-peer vehicle discovery, secure bookings, real-time analytics, and JWT cookie authentication. | `React 18` `Vite` `Tailwind` `Node.js` `Express` `MongoDB` `Firebase` | [🌐 Live Demo](https://drivefleet-client.vercel.app)<br>[💻 Client](https://github.com/ibtee12/DriveFleet-client) • [⚡ Server](https://github.com/ibtee12/DriveFleet-server) |
+| 📐 **Matrix Math Care** | **Online STEM Coaching & Academic Analytics Platform**<br>Modern coaching portal delivering structured lessons, student progress tracking, and transparent exam performance analytics. | `Next.js 15` `React 19` `Tailwind CSS` `TypeScript` `Vercel` | [🌐 Live Demo](https://xyz-care.vercel.app/) |
 | 🌿 **Digital Life Lessons** | **Editorial Wisdom & Mindset Reflection Ecosystem**<br>Clean Medium & Notion-inspired journal with 20-week GitHub-style heatmap, Stripe VIP subscriptions, and PDF export. | `React` `Vite` `Tailwind` `Framer Motion` `Node.js` `MongoDB` `Stripe` | [🌐 Live Demo](https://digital-life-lessons-client-side.vercel.app/)<br>[💻 Client](https://github.com/ibtee12/digital-life-lessons-client-side-) • [⚡ Server](https://github.com/ibtee12/digital-life-lessons-server-side-) |
-| 💼 **Hireloop** | **Modern Talent Acquisition & Hiring Workspace**<br>Streamlined recruitment application built with Next.js server components, fluid animations, and robust session auth. | `Next.js 16` `React 19` `HeroUI` `Better-Auth` `Tailwind v4` `MongoDB` | 🚧 *In Active Development* |
-| 🎨 **Air Drawing Canvas** | **Real-Time Gesture-Controlled Virtual Canvas**<br>Computer vision application tracking hand landmarks to draw, select colors, and erase in mid-air via webcam. | `Python 3` `OpenCV` `MediaPipe` `NumPy` | [💻 Repository](https://github.com/ibtee12/air-drawing) |
-| ⚔️ **Ember & Frost** | **2D Elemental Action RPG with LAN PvP**<br>Top-down adventure featuring Fire & Ice stance shifts, overworld exploration, and local/LAN 1v1 multiplayer combat. | `Python` `Pygame` `Sockets` | [💻 Repository](https://github.com/ibtee12/ember-frost) |
+| 🏎️ **DriveFleet** | **Enterprise Car Rental & Fleet Management Platform**<br>Peer-to-peer vehicle discovery, secure bookings, real-time analytics, and JWT cookie authentication. | `React 18` `Vite` `Tailwind` `Node.js` `Express` `MongoDB` `Firebase` | [🌐 Live Demo](https://drive-fleet-client-xi.vercel.app/)<br>[💻 Client](https://github.com/ibtee12/DriveFleet-client) • [⚡ Server](https://github.com/ibtee12/DriveFleet-server) |
 
 ---
 
@@ -125,15 +117,6 @@ Passions: Scalable Web Apps, Interactive UI/UX, Computer Vision & Creative Tech
 <div align="center">
   <h3>🤝 Let's Connect & Collaborate!</h3>
   <p>I'm always excited to discuss full-stack opportunities, new ideas, or creative collaborations.</p>
-
-  <p>
-    <a href="mailto:ibtee555@gmail.com">
-      <img src="https://img.shields.io/badge/Say_Hello-ibtee555%40gmail.com-38BDF8?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Say Hello" />
-    </a>
-    <a href="https://github.com/ibtee12?tab=repositories">
-      <img src="https://img.shields.io/badge/Explore_Repos-ibtee12-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repos" />
-    </a>
-  </p>
 
   <!-- Dynamic Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=100&section=footer" width="100%" alt="Footer Wave" />
