@@ -1,13 +1,6 @@
 <div align="center">
-  <!-- Dynamic Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,36&height=220&section=header&text=Hi%20there,%20I'm%20Nahyan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20MERN%20&%20Next.js%20Enthusiast%20|%20RUET%20CSE&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
-
-  <br/>
-
-  <!-- Dynamic Typing SVG Subtitle -->
-  <a href="https://github.com/ibtee12">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;MERN+Stack+and+Next.js+Specialist;CSE+Undergraduate+at+RUET;Building+Scalable+and+Modern+Web+Apps;Creative+Coder+and+Tech+Enthusiast" alt="Typing SVG" />
-  </a>
+  <!-- Retro Pixel Art Header with Hovering Pixel Name -->
+  <img src="./assets/car-gif.gif" width="100%" alt="Nahyan | Full-Stack Developer • RUET CSE" />
 
   <br/>
 
